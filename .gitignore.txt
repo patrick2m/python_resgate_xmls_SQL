@@ -1,1 +1,1 @@
-configuracoes.local
+configuracoes.py
